@@ -1,0 +1,53 @@
+table {
+    border:3px solid #010101;
+    border-collapse:collapse;
+    width:90%;
+    margin:auto;
+   
+    
+    }
+    thead, tbody {
+    background-color:#D0E3FA;
+    background-image:url(sky.jpg);
+    border:1px solid #000000;
+    }
+    tbody {
+    background-color:#FFFFFF;
+    border:1px solid #000000;
+    }
+    th {
+    font-family:Brush Script MT;
+    border:1px dotted #000000;
+    padding:5px;
+    background-color:#EFF6FF;
+    width:25%;
+    font-size: 45px;
+    }
+    td {
+    font-family:sans-serif;
+    font-size:80%;
+    border:1px solid #000000;
+    padding:5px;
+    text-align:left;
+    font-size: 17px;
+    }
+    .plat{
+font-family: monospace;
+font-size: 25px;
+font-weight: bold;
+    }
+
+    
+tbody tr:nth-child(odd) {
+    background-color: #4b97c9;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #95b9e4;
+  }
+  
+  tbody tr {
+    background-image: url(noise.png);
+  }
+  
+  

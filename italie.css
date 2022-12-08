@@ -1,0 +1,179 @@
+body{
+    background-image: url(https://images3.bovpg.net/fw/back/fr/sale/5dea1272d2583o.jpg);
+    background-attachment: fixed;
+     background-repeat: no-repeat;
+     background-position: auto;
+     background-size: 100% 740px;
+}
+h1{
+    color: rgb(198, 115, 21);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 40px;
+    text-align: left;
+      
+}
+.drapeau{
+    width: 5%;
+    border-radius:8em / 8em ;
+    }
+    p{
+        margin-right:10px ;
+        text-align: right;
+        margin-top: -80px;
+        
+    }
+    .border1{
+        width: 300px;
+        height: 400px;
+        margin: 10px 10px;
+        background-color: rgba(0, 0, 0, 0.8);
+        margin-top: 120px ;
+        text-align: justify ;
+        border-radius: 8em 4em ;
+        padding: 200px;
+        box-sizing: border-box;
+        position: absolute;
+        top: -6px;
+        left: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .border2{
+        width: 300px;
+        height: 400px;
+        margin: 10px 10px;
+        background-color: rgba(0, 0, 0, 0.8);
+        margin-top: 120px ;
+        text-align: justify ;
+        border-radius:4em / 8em ;
+        padding: 200px;
+        box-sizing: border-box;
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        top: -6px;
+        left: 570px;
+    }
+    .border3{
+        width: 300px;
+            height: 400px;
+            margin: 10px 10px;
+            background-color: rgba(0, 0, 0, 0.8);
+            margin-top: 120px ;
+            text-align: justify ;
+            border-radius: 8em 4em ;
+            padding: 200px;
+            box-sizing: border-box;
+            position: absolute;
+            top: -6px;
+            right:  10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+        
+    }
+    
+    .border4{
+        width: 300px;
+        height: 400px;
+        margin: 10px 10px;
+        background-color: rgba(0, 0, 0, 0.8);
+        margin-top: 700px ;
+        text-align: justify ;
+        border-radius: 8em 4em ;
+        padding: 200px;
+        box-sizing: border-box;
+        position: absolute;
+        top: -6px;
+        left: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .border5{
+        width: 300px;
+        height: 400px;
+        margin: 10px 10px;
+        background-color: rgba(0, 0, 0, 0.8);
+        margin-top: 700px ;
+        text-align: justify ;
+        border-radius:4em / 8em ;
+        padding: 200px;
+        box-sizing: border-box;
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        top: -6px;
+        left: 570px;
+    }
+    .border6{
+        width: 300px;
+            height: 400px;
+            margin: 10px 10px;
+            background-color: rgba(0, 0, 0, 0.8);
+            margin-top: 700px ;
+            text-align: justify ;
+            border-radius: 8em 4em ;
+            padding: 200px;
+            box-sizing: border-box;
+            position: absolute;
+            top: -6px;
+            right:  10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+        
+    }
+
+    .cos{
+        width: 250px;
+        margin-top: -190px;
+        border-radius:4em / 8em ;
+    }
+    .detail{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .detail p{
+        color: rgb(248, 243, 243);
+        text-align: center;
+        margin-top: 30px;
+        font-family: cursive;
+        font-size: 30px;
+    }
+    
+    
+    .icon a{
+        display: inline-block;
+        height: 60px;
+        width: 60px;
+        background-color: rgba(255, 255,255, 0.2);
+        text-align: center;
+        line-height: 70px;
+        border-radius: 50%;
+        color: #ffffff;
+        transition: all 0.5s ease;
+    }
+    .icon a i{
+        outline: none;
+        font-size: 30px;
+        width: 55px;
+        top: 50px;
+    
+    }
+    .icon a:hover{
+        color: #ae1a0c;
+        background-color: #ffffff;
+    }
+    
+    
